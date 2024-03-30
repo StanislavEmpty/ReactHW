@@ -1,0 +1,13 @@
+.component3{
+    margin: auto;
+    padding: 1em;
+    margin-top: 30px;
+    height: auto;
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.button-comp3{
+    height: 50px;
+    width: 150px;
+}
